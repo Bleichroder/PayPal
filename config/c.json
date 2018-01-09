@@ -1,0 +1,11 @@
+{
+    "port":11000,
+    "nsq_addr":"202.66.144.47:4150",
+    "sqlAddr":"root:zc-DB1234@tcp(192.168.1.27:3306)/zx_pay?timeout=3s\u0026parseTime=true\u0026loc=Local\u0026charset=utf8mb4",
+    "payPalIPNUrl":"https://ipnpb.sandbox.paypal.com/cgi-bin/webscr",
+    "payPalBaseUrl":"https://api.sandbox.paypal.com",
+    "clientID":"AVyGRg-_BU4Jc_P6FvgmapXhcDNzfXUUSxvfUpM9J2fAnJjyx02DryqzyaMGrflXG8Q8SPxYduhSHmUh",
+    "secret":"ECbkQTTFwm8eCGHXAjwScU_EFJeod9fp2Xi8VyinCnL1Nb5b85H8Wm9RL4H_9Q6upVzFdoSLT_KEVCt-",
+    "redisHost":"202.66.144.47:6378",
+    "redisPassword":""
+}
